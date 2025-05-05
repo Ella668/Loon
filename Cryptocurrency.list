@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,forter.com,Cryptocurrency
 DOMAIN-SUFFIX,xcoinsystem.com,Cryptocurrency
 DOMAIN-SUFFIX,bitget.com,Cryptocurrency
 DOMAIN-SUFFIX,9ibp.com,Cryptocurrency
+DOMAIN-SUFFIX,okx.com,Cryptocurrency
 
 # Defi
 DOMAIN-SUFFIX,mdex.com,Cryptocurrency
@@ -88,6 +89,7 @@ DOMAIN-SUFFIX,tronlink.org,Cryptocurrency
 DOMAIN-SUFFIX,hbwalletapi.net,Cryptocurrency
 DOMAIN-SUFFIX,quickwallet.io,Cryptocurrency
 DOMAIN-SUFFIX,metamask.io,Cryptocurrency
+DOMAIN-SUFFIX,mokexapp.io,Cryptocurrency
 
 # Miner
 DOMAIN-SUFFIX,unmineable.com,Cryptocurrency
@@ -135,6 +137,7 @@ DOMAIN-SUFFIX,galaxy.eco,Cryptocurrency
 # Swap
 DOMAIN-SUFFIX,justswap.io,Cryptocurrency
 DOMAIN-SUFFIX,just.network,Cryptocurrency
+DOMAIN-SUFFIX,jup.ag,Cryptocurrency
 
 # News
 DOMAIN-SUFFIX,bishijie.com,Cryptocurrency
