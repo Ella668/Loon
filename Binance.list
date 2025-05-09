@@ -1,41 +1,41 @@
 # CEFI
-DOMAIN-SUFFIX,binance.cc,Cryptocurrency
-DOMAIN-SUFFIX,binance.com,Cryptocurrency
-DOMAIN-SUFFIX,binance.info,Cryptocurrency
-DOMAIN-SUFFIX,binance.cloud,Cryptocurrency
-DOMAIN-SUFFIX,bntrace.com,Cryptocurrency
-DOMAIN-SUFFIX,binancefuture.com,Cryptocurrency
-DOMAIN-SUFFIX,bnappzh.com,Cryptocurrency
-DOMAIN-SUFFIX,bnbstatic.com,Cryptocurrency
-DOMAIN-SUFFIX,binance.im,Cryptocurrency
-DOMAIN-SUFFIX,binance.me,Cryptocurrency
-DOMAIN-SUFFIX,binance.charity,Cryptocurrency
-DOMAIN-SUFFIX,binance.co,Cryptocurrency
-DOMAIN-SUFFIX,binance.net,Cryptocurrency
-DOMAIN-SUFFIX,binance.org,Cryptocurrency
-DOMAIN-SUFFIX,binance.us,Cryptocurrency
-DOMAIN-SUFFIX,binance.vision,Cryptocurrency
-DOMAIN-SUFFIX,binanceapi.com,Cryptocurrency
-DOMAIN-SUFFIX,binancecnt.com,Cryptocurrency
-DOMAIN-SUFFIX,binancezh.be,Cryptocurrency
-DOMAIN-SUFFIX,binancezh.biz,Cryptocurrency
-DOMAIN-SUFFIX,binancezh.cc,Cryptocurrency
-DOMAIN-SUFFIX,binancezh.co,Cryptocurrency
-DOMAIN-SUFFIX,binancezh.com,Cryptocurrency
-DOMAIN-SUFFIX,binancezh.info,Cryptocurrency
-DOMAIN-SUFFIX,binancezh.ink,Cryptocurrency
-DOMAIN-SUFFIX,binancezh.kim,Cryptocurrency
-DOMAIN-SUFFIX,binancezh.link,Cryptocurrency
-DOMAIN-SUFFIX,binancezh.live,Cryptocurrency
-DOMAIN-SUFFIX,binancezh.mobi,Cryptocurrency
-DOMAIN-SUFFIX,binancezh.net,Cryptocurrency
-DOMAIN-SUFFIX,binancezh.pro,Cryptocurrency
-DOMAIN-SUFFIX,binancezh.sh,Cryptocurrency
-DOMAIN-SUFFIX,binancezh.top,Cryptocurrency
+DOMAIN-SUFFIX,binance.cc,Binance
+DOMAIN-SUFFIX,binance.com,Binance
+DOMAIN-SUFFIX,binance.info,Binance
+DOMAIN-SUFFIX,binance.cloud,Binance
+DOMAIN-SUFFIX,bntrace.com,Binance
+DOMAIN-SUFFIX,binancefuture.com,Binance
+DOMAIN-SUFFIX,bnappzh.com,Binance
+DOMAIN-SUFFIX,bnbstatic.com,Binance
+DOMAIN-SUFFIX,binance.im,Binance
+DOMAIN-SUFFIX,binance.me,Binance
+DOMAIN-SUFFIX,binance.charity,Binance
+DOMAIN-SUFFIX,binance.co,Binance
+DOMAIN-SUFFIX,binance.net,Binance
+DOMAIN-SUFFIX,binance.org,Binance
+DOMAIN-SUFFIX,binance.us,Binance
+DOMAIN-SUFFIX,binance.vision,Binance
+DOMAIN-SUFFIX,binanceapi.com,Binance
+DOMAIN-SUFFIX,binancecnt.com,Binance
+DOMAIN-SUFFIX,binancezh.be,Binance
+DOMAIN-SUFFIX,binancezh.biz,Binance
+DOMAIN-SUFFIX,binancezh.cc,Binance
+DOMAIN-SUFFIX,binancezh.co,Binance
+DOMAIN-SUFFIX,binancezh.com,Binance
+DOMAIN-SUFFIX,binancezh.info,Binance
+DOMAIN-SUFFIX,binancezh.ink,Binance
+DOMAIN-SUFFIX,binancezh.kim,Binance
+DOMAIN-SUFFIX,binancezh.link,Binance
+DOMAIN-SUFFIX,binancezh.live,Binance
+DOMAIN-SUFFIX,binancezh.mobi,Binance
+DOMAIN-SUFFIX,binancezh.net,Binance
+DOMAIN-SUFFIX,binancezh.pro,Binance
+DOMAIN-SUFFIX,binancezh.sh,Binance
+DOMAIN-SUFFIX,binancezh.top,Binance
 
 
 # Wallet
-DOMAIN-SUFFIX,mokexapp.io,Cryptocurrency
+DOMAIN-SUFFIX,mokexapp.io,Binance
 
 # Chain
-DOMAIN-SUFFIX,binance.org,Cryptocurrency
+DOMAIN-SUFFIX,binance.org,Binance
