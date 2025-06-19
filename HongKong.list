@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,app-measurement.com,HongKong
 DOMAIN-SUFFIX,walletconnect.com,HongKong
 DOMAIN-SUFFIX,gmgn.ai,HongKong
 DOMAIN-SUFFIX,axiom.trade,HongKong
+DOMAIN-SUFFIX,axiomtrading.sfo3.cdn.digitalocean.com,HongKong
 DOMAIN-SUFFIX,ave.ai,HongKong
 DOMAIN-SUFFIX,aicoin.com,HongKong
 DOMAIN-SUFFIX,dexscreener.com,HongKong
@@ -12,12 +13,17 @@ DOMAIN-SUFFIX,hidex.pro,HongKong
 DOMAIN-SUFFIX,app.insightx.network,HongKong
 DOMAIN-SUFFIX,clubsim.com,HongKong
 DOMAIN-SUFFIX,hyperliquid.xyz,HongKong
-DOMAIN-SUFFIX,com.hk,HongKong
 DOMAIN-SUFFIX,botvsing.com,HongKong
+DOMAIN-SUFFIX,finviz.com,HongKong
+
+# 香港hk结尾
+DOMAIN-SUFFIX,com.hk,HongKong
+
+# 香港证券
+DOMAIN-SUFFIX,itiger.com,HongKong
+DOMAIN-SUFFIX,itigerup.com,HongKong
+DOMAIN-SUFFIX,itigergrowtha.com,HongKong
+DOMAIN-SUFFIX,tigersecurities.com,HongKong
 DOMAIN-SUFFIX,moomoo.com,HongKong
 DOMAIN-SUFFIX,futunn.com,HongKong
 DOMAIN-SUFFIX,tyys2.com,HongKong
-DOMAIN-SUFFIX,axiomtrading.sfo3.cdn.digitalocean.com,HongKong
-DOMAIN-SUFFIX,finviz.com,HongKong
-DOMAIN-SUFFIX,itiger.com,HongKong
-DOMAIN-SUFFIX,itigergrowtha.com,HongKong
