@@ -29,3 +29,7 @@ DOMAIN-SUFFIX,tigersecurities.com,HongKong
 DOMAIN-SUFFIX,moomoo.com,HongKong
 DOMAIN-SUFFIX,futunn.com,HongKong
 DOMAIN-SUFFIX,tyys2.com,HongKong
+
+# 一些应用
+DOMAIN-SUFFIX,helius.dev,HongKong
+DOMAIN-SUFFIX,helius.xyz,HongKong
