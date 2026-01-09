@@ -1,10 +1,11 @@
 # > Claude
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claudeusercontent.com
-DOMAIN,cdn.usefathom.com
-DOMAIN-SUFFIX,siftscience.com
-DOMAIN-SUFFIX,ingest.us.sentry.io
-DOMAIN-SUFFIX,claudemcpclient.com
-DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,claude.md
+DOMAIN-SUFFIX,anthropic.com,Claude
+DOMAIN-SUFFIX,claude.ai,Claude
+DOMAIN-SUFFIX,claudeusercontent.com,Claude
+DOMAIN,cdn.usefathom.com,Claude
+DOMAIN-SUFFIX,siftscience.com,Claude
+DOMAIN-SUFFIX,ingest.us.sentry.io,Claude
+DOMAIN-SUFFIX,claudemcpclient.com,Claude
+DOMAIN-SUFFIX,claude.com,Claude
+DOMAIN-SUFFIX,claude.md,Claude
+DOMAIN-KEYWORD,claude,Claude
