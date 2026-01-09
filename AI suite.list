@@ -19,14 +19,6 @@ DOMAIN-SUFFIX,oaiusercontent.com
 
 DOMAIN,o33249.ingest.sentry.io
 
-# > Claude
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claudeusercontent.com
-DOMAIN,cdn.usefathom.com
-DOMAIN-SUFFIX,siftscience.com
-DOMAIN-SUFFIX,ingest.us.sentry.io
-
 
 # > Cloudflare AI Gateway
 DOMAIN,gateway.ai.cloudflare.com
