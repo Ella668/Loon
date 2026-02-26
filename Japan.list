@@ -1,2 +1,6 @@
 DOMAIN-SUFFIX,axiom.trade,Japan
 DOMAIN-SUFFIX,axiomtrading.sfo3.cdn.digitalocean.com,Japan
+
+# 预测市场
+DOMAIN-SUFFIX,kalshi.com,Japan
+DOMAIN-SUFFIX,kalshi-public-docs.s3.amazonaws,Japan
