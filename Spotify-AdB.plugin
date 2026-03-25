@@ -1,0 +1,24 @@
+#!name=Spotify iOS Ad Block
+#!desc=屏蔽 Spotify iOS 客户端广告
+#!author=custom
+#!icon=https://www.spotify.com/favicon.ico
+
+[Rule]
+# 广告音频 CDN
+DOMAIN-SUFFIX,audio-fa.scdn.co,REJECT
+DOMAIN-SUFFIX,creativeservice-production.scdn.co,REJECT
+DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net,REJECT
+
+# 广告追踪
+DOMAIN-SUFFIX,pixel.spotify.com,REJECT
+DOMAIN-SUFFIX,ads.spotify.com,REJECT
+DOMAIN-SUFFIX,analytx.spotify.com,REJECT
+
+[URL Rewrite]
+# 广告投放与逻辑
+^https?://spclient\.wg\.spotify\.com/ads/ - reject
+^https?://spclient\.wg\.spotify\.com/ad-logic/ - reject
+^https?://spclient\.wg\.spotify\.com/gabo-receiver-service/ - reject
+
+[MITM]
+hostname = spclient.wg.spotify.com
