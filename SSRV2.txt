@@ -1,0 +1,28 @@
+[Proxy]
+🇹🇼 台湾1-VIP99f = vmess, pop3.bhcy.email, 11348, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇹🇼 台湾2-VIP99f = vmess, pop3.bhcy.email, 11812, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇹🇼 台湾3-VIP99f = vmess, pop3.bhcy.email, 11349, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇹🇼 台湾5-VIP99f-谷歌学术 = vmess, pop3.bhcy.email, 11831, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇹🇼 台湾6-VIP99f-谷歌学术 = vmess, pop3.bhcy.email, 11345, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇯🇵 日本1-VIP99f = vmess, pop3.bhcy.email, 11708, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇯🇵 日本2-VIP99f = vmess, pop3.bhcy.email, 11343, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇯🇵 日本3-VIP99f = vmess, pop3.bhcy.email, 11821, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇯🇵 日本4-VIP99f = vmess, pop3.bhcy.email, 11701, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇯🇵 日本5-VIP99f = vmess, pop3.bhcy.email, 11702, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇯🇵 日本6-VIP99f = vmess, pop3.bhcy.email, 11703, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇺🇸 美国01-VIP99f = vmess, pop3.bhcy.email, 11849, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇺🇸 美国03-VIP99f = vmess, pop3.bhcy.email, 11827, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇺🇸 美国04-VIP99f = vmess, pop3.bhcy.email, 11808, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇺🇸 美国05-VIP99f = vmess, pop3.bhcy.email, 11802, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇺🇸 美国06-VIP99f = vmess, pop3.bhcy.email, 11807, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇺🇸 美国07-VIP99f = vmess, pop3.bhcy.email, 11704, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇺🇸 美国08-VIP99f = vmess, pop3.bhcy.email, 11841, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇺🇸 美国09-VIP99f = vmess, pop3.bhcy.email, 11842, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇭🇰 香港1t-谷歌学术-VIP99f = vmess, pop3.bhcy.email, 11699, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇭🇰 香港2t-谷歌学术-VIP99f = vmess, pop3.bhcy.email, 11705, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇭🇰 香港3t-谷歌学术-VIP99f = vmess, pop3.bhcy.email, 11707, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇭🇰 香港4t-谷歌学术-VIP99f = vmess, pop3.bhcy.email, 11698, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇭🇰 香港5t-谷歌学术-VIP99f = vmess, pop3.bhcy.email, 11696, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee"
+🇺🇸 10倍率-ai专用-美国01 = vmess, web.bhcy.email, 11342, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee", transport=ws, path=/us702749
+🇺🇸 10倍率-ai专用-美国02 = vmess, web.bhcy.email, 11342, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee", transport=ws, path=/us1094
+🇺🇸 10倍率-ai专用-美国03 = vmess, web.bhcy.email, 11342, chacha20-poly1305, "cfa794ba-0921-3354-924e-dfaea60957ee", transport=ws, path=/us780175
