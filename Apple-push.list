@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,push.apple.com,PROXY
+DOMAIN-SUFFIX,gateway.push.apple.com,PROXY
+DOMAIN-SUFFIX,api.push.apple.com,PROXY
+DOMAIN-SUFFIX,sandbox.push.apple.com,PROXY
