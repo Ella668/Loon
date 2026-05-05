@@ -1,5 +1,9 @@
 # 香港hk结尾
 DOMAIN-SUFFIX,com.hk,HongKong
+DOMAIN-SUFFIX,boccc.com,HongKong
+DOMAIN-SUFFIX,bochk.com,HongKong
+DOMAIN-SUFFIX,hsbc.com.hk,HongKong
+DOMAIN-SUFFIX,com,HongKong
 
 # 香港证券
 DOMAIN-SUFFIX,itiger.com,HongKong
@@ -18,3 +22,9 @@ DOMAIN-SUFFIX,faster100x.com,HongKong
 DOMAIN-SUFFIX,trojanonsolana.com,HongKong
 DOMAIN-SUFFIX,mobyscreener.com,HongKong
 DOMAIN-SUFFIX,substack.com,HongKong
+DOMAIN-SUFFIX,believe.com,HongKong
+DOMAIN-SUFFIX,follow.is,HongKong
+DOMAIN-SUFFIX,bonjour.bio,HongKong
+DOMAIN-SUFFIX,polygon-rpc.com,HongKong
+DOMAIN-SUFFIX,polymarket.com,HongKong
+DOMAIN-SUFFIX,wall-street-skill,HongKong
