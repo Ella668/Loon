@@ -1,25 +1,5 @@
-# > Chart
-DOMAIN-SUFFIX,tradingview.com,HongKong
-DOMAIN-SUFFIX,app-measurement.com,HongKong
-DOMAIN-SUFFIX,walletconnect.com,HongKong
-DOMAIN-SUFFIX,gmgn.ai,HongKong
-DOMAIN-SUFFIX,ave.ai,HongKong
-DOMAIN-SUFFIX,aicoin.com,HongKong
-DOMAIN-SUFFIX,dexscreener.com,HongKong
-DOMAIN-SUFFIX,hidex.ai,HongKong
-DOMAIN-SUFFIX,hidex.pro,HongKong
-DOMAIN-SUFFIX,app.insightx.network,HongKong
-DOMAIN-SUFFIX,clubsim.com,HongKong
-DOMAIN-SUFFIX,hyperliquid.xyz,HongKong
-DOMAIN-SUFFIX,botvsing.com,HongKong
-DOMAIN-SUFFIX,finviz.com,HongKong
-DOMAIN-SUFFIX,logearn.com,HongKong
-DOMAIN-SUFFIX,coinglass.com,HongKong
-DOMAIN-SUFFIX,coinglasscdn.com,HongKong
-DOMAIN-SUFFIX,axiom.trade,Japan
-DOMAIN-SUFFIX,axiomtrading.sfo3.cdn.digitalocean.com,Japan
-
 # 预测市场
 DOMAIN-SUFFIX,kalshi.com,Japan
 DOMAIN-SUFFIX,kalshi-public-docs.s3.amazonaws,Japan
 DOMAIN-KEYWORD,kalshi,Japan
+DOMAIN-KEYWORD,opinion.trade,Japan
