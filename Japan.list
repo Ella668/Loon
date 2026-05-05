@@ -3,3 +3,11 @@ DOMAIN-SUFFIX,kalshi.com,Japan
 DOMAIN-SUFFIX,kalshi-public-docs.s3.amazonaws,Japan
 DOMAIN-KEYWORD,kalshi,Japan
 DOMAIN-KEYWORD,opinion.trade,Japan
+
+# 社媒
+DOMAIN-SUFFIX,x.com,Japan
+DOMAIN-SUFFIX,twitter.com,Japan
+
+# 区块链
+DOMAIN-SUFFIX,ondo.finance,Japan
+DOMAIN-SUFFIX,dune.com,Japan
