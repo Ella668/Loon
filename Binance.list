@@ -39,3 +39,10 @@ DOMAIN-SUFFIX,mokexapp.io,Binance
 
 # Chain
 DOMAIN-SUFFIX,binance.org,Binance
+
+# Meme
+DOMAIN-SUFFIX,api.binance.com,Binance
+DOMAIN-SUFFIX,web3.binance.com,Binance
+DOMAIN-SUFFIX,nbstream.binance.com,Binance
+DOMAIN-SUFFIX,web3-stream.binance.com,Binance
+DOMAIN-SUFFIX,accounts.binance.com,Binance
