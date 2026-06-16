@@ -1,1 +1,21 @@
+#  IBKR
+DOMAIN-SUFFIX,interactivebrokers.com,PROXY
+DOMAIN-SUFFIX,ibkr.com,PROXY
+DOMAIN-SUFFIX,ibllc.com,PROXY
+DOMAIN,api.ibkr.com,PROXY
+DOMAIN-SUFFIX,ibkr.info,PROXY
+DOMAIN-SUFFIX,ibkrcampus.com,PROXY
+DOMAIN-SUFFIX,interactivebrokers.github.io,PROXY
 
+#  Schwab
+DOMAIN-SUFFIX,schwab.com,PROXY
+DOMAIN-SUFFIX,schwabcdn.com,PROXY
+DOMAIN-SUFFIX,thinkorswim.com,PROXY
+DOMAIN-SUFFIX,tdameritrade.com,PROXY
+DOMAIN-SUFFIX,ameritrade.com,PROXY
+DOMAIN-SUFFIX,api.schwabapi.com,PROXY
+DOMAIN-SUFFIX,schwabcontent.com,PROXY
+DOMAIN-SUFFIX,aboutschwab.com,PROXY
+DOMAIN-SUFFIX,schwabassetmanagement.com,PROXY
+DOMAIN-SUFFIX,tos.mx,PROXY
+DOMAIN-SUFFIX,developer.schwab.com,PROXY
