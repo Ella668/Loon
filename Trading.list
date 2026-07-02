@@ -24,3 +24,6 @@ DOMAIN-SUFFIX,axiomtrading.sfo3.cdn.digitalocean.com,Trading
 
 # Other
 DOMAIN-SUFFIX,app.sky.money,Trading
+
+# Option
+DOMAIN-SUFFIX,deribit.com,Trading
