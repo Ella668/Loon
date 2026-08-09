@@ -3,7 +3,10 @@ DOMAIN-SUFFIX,tradingview.com,Trading
 DOMAIN-SUFFIX,tradingview-widget.com,Trading
 DOMAIN-SUFFIX,dexscreener.com,Trading
 DOMAIN-SUFFIX,finviz.com,Trading
+
+# Hyper
 DOMAIN-SUFFIX,hyperliquid.xyz,Trading
+DOMAIN-SUFFIX,hyperliquid.statuspage.io,Trading
 
 # Trade
 DOMAIN-SUFFIX,gmgn.ai,Trading
