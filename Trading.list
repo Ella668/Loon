@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,finviz.com,Trading
 # Hyper
 DOMAIN-SUFFIX,hyperliquid.xyz,Trading
 DOMAIN-SUFFIX,hyperliquid.statuspage.io,Trading
+DOMAIN-KEYWORD,hyperliquid,Trading
 
 # Trade
 DOMAIN-SUFFIX,gmgn.ai,Trading
