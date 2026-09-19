@@ -33,10 +33,12 @@ DOMAIN-SUFFIX,binancezh.pro,Binance
 DOMAIN-SUFFIX,binancezh.sh,Binance
 DOMAIN-SUFFIX,binancezh.top,Binance
 DOMAIN-SUFFIX,fstream.binance.com,Binance
+DOMAIN-SUFFIX,binance.click,Binance
 
 
 # Wallet
 DOMAIN-SUFFIX,mokexapp.io,Binance
+DOMAIN-SUFFIX,mokexapp.tv,Binance
 
 # Chain
 DOMAIN-SUFFIX,binance.org,Binance
