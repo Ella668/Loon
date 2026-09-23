@@ -2,6 +2,7 @@
 # > Agricultural Bank of China
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,abchina.com.cn
+DOMAIN,msmp.abchina.com.cn,REJECT
 
 # > Bank of China
 DOMAIN-SUFFIX,boc.cn
