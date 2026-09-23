@@ -5,8 +5,17 @@ DOMAIN-KEYWORD,kalshi,Japan
 DOMAIN-KEYWORD,opinion.trade,Japan
 
 # 社媒
+# Twitter(X)
 DOMAIN-SUFFIX,x.com,Japan
 DOMAIN-SUFFIX,twitter.com,Japan
+DOMAIN-SUFFIX,ads-twitter.com,Japan
+DOMAIN-SUFFIX,t.co,Japan
+DOMAIN-SUFFIX,twimg.co,Japan
+DOMAIN-SUFFIX,twimg.com,Japan
+DOMAIN-SUFFIX,twittr.com,Japan
+DOMAIN-SUFFIX,twitpic.com,Japan
+DOMAIN-SUFFIX,twitter.jp,Japan
+DOMAIN-SUFFIX,vine.co,Japan
 
 # 区块链
 DOMAIN-SUFFIX,ondo.finance,Japan
