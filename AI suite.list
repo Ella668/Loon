@@ -92,6 +92,7 @@ DOMAIN-SUFFIX,jasper.ai
 # > Meta AI
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,metaaivm.com
 
 # > OpenArt
 DOMAIN-SUFFIX,openart.ai
