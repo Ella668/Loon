@@ -1,11 +1,11 @@
 # Reddit
-- DOMAIN-SUFFIX,redd.it,Reddit
-- DOMAIN-SUFFIX,reddit.com,Reddit
-- DOMAIN-SUFFIX,redditinc.com,Reddit
-- DOMAIN-SUFFIX,redditmail.com,Reddit
-- DOMAIN-SUFFIX,redditmedia.com,Reddit
-- DOMAIN-SUFFIX,redditstatic.com,Reddit
-- DOMAIN-SUFFIX,redditstaus.com,Reddit
+DOMAIN-SUFFIX,redd.it,Reddit
+DOMAIN-SUFFIX,reddit.com,Reddit
+DOMAIN-SUFFIX,redditinc.com,Reddit
+DOMAIN-SUFFIX,redditmail.com,Reddit
+DOMAIN-SUFFIX,redditmedia.com,Reddit
+DOMAIN-SUFFIX,redditstatic.com,Reddit
+DOMAIN-SUFFIX,redditstaus.com,Reddit
 
 
 DOMAIN-SUFFIX,quora.com,USA
@@ -14,21 +14,21 @@ DOMAIN-SUFFIX,meta.com,USA
 
 
 # Facebook
-- DOMAIN-SUFFIX,acconunkit.com,USA
-- DOMAIN-SUFFIX,atdmt.com,USA
-- DOMAIN-SUFFIX,atlassolutions.com,USA
-- DOMAIN-SUFFIX,facebook.com,USA
-- DOMAIN-SUFFIX,facebook.net,USA
-- DOMAIN-SUFFIX,facebookmail.com,USA
-- DOMAIN-SUFFIX,fb.com,USA
-- DOMAIN-SUFFIX,fb.gg,USA
-- DOMAIN-SUFFIX,fbcdn.net,USA
-- DOMAIN-SUFFIX,fb.watch,USA
-- DOMAIN-SUFFIX,fbsbx.com,USA
-- DOMAIN-SUFFIX,fbwat.ch,USA
-- DOMAIN-SUFFIX,parse.com,USA
+DOMAIN-SUFFIX,acconunkit.com,USA
+DOMAIN-SUFFIX,atdmt.com,USA
+DOMAIN-SUFFIX,atlassolutions.com,USA
+DOMAIN-SUFFIX,facebook.com,USA
+DOMAIN-SUFFIX,facebook.net,USA
+DOMAIN-SUFFIX,facebookmail.com,USA
+DOMAIN-SUFFIX,fb.com,USA
+DOMAIN-SUFFIX,fb.gg,USA
+DOMAIN-SUFFIX,fbcdn.net,USA
+DOMAIN-SUFFIX,fb.watch,USA
+DOMAIN-SUFFIX,fbsbx.com,USA
+DOMAIN-SUFFIX,fbwat.ch,USA
+DOMAIN-SUFFIX,parse.com,USA
 
 # Instagram
-- DOMAIN-SUFFIX,instagram.com,Instagram
-- DOMAIN-SUFFIX,cdninstagram.com,Instagram
+DOMAIN-SUFFIX,instagram.com,USA
+DOMAIN-SUFFIX,cdninstagram.com,USA
 
