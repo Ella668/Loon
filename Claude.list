@@ -6,8 +6,10 @@ DOMAIN,cdn.usefathom.com,Claude
 DOMAIN-SUFFIX,siftscience.com,Claude
 DOMAIN-SUFFIX,ingest.us.sentry.io,Claude
 DOMAIN-SUFFIX,claudemcpclient.com,Claude
+DOMAIN-SUFFIX,claudemcpcontent.com,Claude
 DOMAIN-SUFFIX,claude.com,Claude
 DOMAIN-SUFFIX,claude.md,Claude
+DOMAIN-SUFFIX,claude.dev,Claude
 DOMAIN-SUFFIX,clau.de,Claude
 
 # Keyword
