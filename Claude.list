@@ -8,4 +8,8 @@ DOMAIN-SUFFIX,ingest.us.sentry.io,Claude
 DOMAIN-SUFFIX,claudemcpclient.com,Claude
 DOMAIN-SUFFIX,claude.com,Claude
 DOMAIN-SUFFIX,claude.md,Claude
+DOMAIN-SUFFIX,clau.de,Claude
+
+# Keyword
 DOMAIN-KEYWORD,claude,Claude
+
