@@ -1,16 +1,33 @@
-# > Claude
+# > Claude 主域名
 DOMAIN-SUFFIX,anthropic.com,Claude
 DOMAIN-SUFFIX,claude.ai,Claude
 DOMAIN-SUFFIX,claudeusercontent.com,Claude
-DOMAIN,cdn.usefathom.com,Claude
-DOMAIN-SUFFIX,siftscience.com,Claude
-DOMAIN-SUFFIX,ingest.us.sentry.io,Claude
 DOMAIN-SUFFIX,claudemcpclient.com,Claude
 DOMAIN-SUFFIX,claudemcpcontent.com,Claude
 DOMAIN-SUFFIX,claude.com,Claude
 DOMAIN-SUFFIX,claude.md,Claude
 DOMAIN-SUFFIX,claude.dev,Claude
 DOMAIN-SUFFIX,clau.de,Claude
+
+# Anthropic 网页端与账号风控/反欺诈/验证关联域名
+DOMAIN-SUFFIX,siftscience.com,Claude
+DOMAIN-SUFFIX,statsig.com,Claude
+DOMAIN-SUFFIX,statsigapi.net,Claude
+DOMAIN-SUFFIX,featureassets.org,Claude
+DOMAIN-SUFFIX,prodregistryv2.org,Claude
+DOMAIN,cdn.usefathom.com,Claude
+DOMAIN-SUFFIX,usefathom.com,Claude
+DOMAIN-SUFFIX,intercom.io,Claude
+DOMAIN-SUFFIX,intercomcdn.com,Claude
+DOMAIN-SUFFIX,stripe.com,Claude
+DOMAIN-SUFFIX,stripe.network,Claude
+DOMAIN,challenges.cloudflare.com,Claude
+
+# Claude Code CLI 内置遥测与 Feature Flags 域名
+DOMAIN-SUFFIX,datadoghq.com,Claude
+DOMAIN-SUFFIX,growthbook.io,Claude
+DOMAIN-SUFFIX,ingest.us.sentry.io,Claude
+DOMAIN-SUFFIX,sentry.io,Claude
 
 # Keyword
 DOMAIN-KEYWORD,claude,Claude
