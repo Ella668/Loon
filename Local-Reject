@@ -1,0 +1,8 @@
+# 1. 阻断 WebRTC STUN / TURN 打洞（防止 UDP 暴露真实 IP 或跨节点 IP）
+# ==========================================
+DOMAIN-KEYWORD,stun,REJECT
+DOMAIN-SUFFIX,stun.l.google.com,REJECT
+DOMAIN-SUFFIX,stun.cloudflare.com,REJECT
+DEST-PORT,3478,REJECT,protocol=UDP
+DEST-PORT,5349,REJECT,protocol=UDP
+PORT-RANGE,19302,19309,REJECT,protocol=UDP
