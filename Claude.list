@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,intercomcdn.com,Claude
 DOMAIN-SUFFIX,stripe.com,Claude
 DOMAIN-SUFFIX,stripe.network,Claude
 DOMAIN,challenges.cloudflare.com,Claude
+DOMAIN,http-intake.logs.us5.datadoghq.com,Claude
 
 # Claude Code CLI 内置遥测与 Feature Flags 域名
 DOMAIN-SUFFIX,datadoghq.com,Claude
