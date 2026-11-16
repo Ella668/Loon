@@ -1,1 +1,10 @@
+# > Chart
+DOMAIN-SUFFIX,tradingview.com,Trading
+DOMAIN-SUFFIX,tradingview-widget.com,Trading
+DOMAIN-SUFFIX,tradingview-stat.com,Trading
 
+# Dexscreener
+DOMAIN-SUFFIX,dexscreener.com,Trading
+
+# Finviz 美股
+DOMAIN-SUFFIX,finviz.com,Trading
