@@ -1,13 +1,25 @@
 # > Claude 主域名
 DOMAIN-SUFFIX,anthropic.com,Claude
+DOMAIN-SUFFIX,anthropic.team,Claude
 DOMAIN-SUFFIX,claude.ai,Claude
+DOMAIN-SUFFIX,claude.app,Claude
+DOMAIN-SUFFIX,claude.com,Claude
+DOMAIN-SUFFIX,claude.md,Claude
+DOMAIN-SUFFIX,claude.new,Claude
+DOMAIN-SUFFIX,claude.dev,Claude
+DOMAIN-SUFFIX,claude.site,Claude
+DOMAIN-SUFFIX,clau.de,Claude
 DOMAIN-SUFFIX,claudeusercontent.com,Claude
 DOMAIN-SUFFIX,claudemcpclient.com,Claude
 DOMAIN-SUFFIX,claudemcpcontent.com,Claude
-DOMAIN-SUFFIX,claude.com,Claude
-DOMAIN-SUFFIX,claude.md,Claude
-DOMAIN-SUFFIX,claude.dev,Claude
-DOMAIN-SUFFIX,clau.de,Claude
+DOMAIN-SUFFIX,claudeacademy.com,Claude
+DOMAIN-SUFFIX,claudepages.dev,Claude
+DOMAIN-SUFFIX,claudestudio.com,Claude
+DOMAIN-SUFFIX,chatbotclaude.com,Claude
+
+# Ant新域名
+DOMAIN-SUFFIX,ant.dev,Claude
+DOMAIN-SUFFIX,antspace.dev,Claude
 
 # Anthropic 网页端与账号风控/反欺诈/验证关联域名
 DOMAIN-SUFFIX,siftscience.com,Claude
