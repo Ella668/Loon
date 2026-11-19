@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,intercom.io,Claude
 DOMAIN-SUFFIX,intercomcdn.com,Claude
 DOMAIN-SUFFIX,stripe.com,Claude
 DOMAIN-SUFFIX,stripe.network,Claude
+DOMAIN-SUFFIX,fcmtoken.googleapis.com,Claude
 DOMAIN,challenges.cloudflare.com,Claude
 DOMAIN,http-intake.logs.us5.datadoghq.com,Claude
 
@@ -42,6 +43,11 @@ DOMAIN-SUFFIX,growthbook.io,Claude
 DOMAIN-SUFFIX,ingest.us.sentry.io,Claude
 DOMAIN-SUFFIX,sentry.io,Claude
 
+# IP
+IP-CIDR,34.8.0.0/16,Claude,no-resolve
+
 # Keyword
 DOMAIN-KEYWORD,claude,Claude
+
+
 
