@@ -1,22 +1,21 @@
 # CEFI
+DOMAIN-SUFFIX,binance.app,Binance
 DOMAIN-SUFFIX,binance.cc,Binance
-DOMAIN-SUFFIX,binance.com,Binance
-DOMAIN-SUFFIX,binance.info,Binance
-DOMAIN-SUFFIX,binance.cloud,Binance
-DOMAIN-SUFFIX,bntrace.com,Binance
-DOMAIN-SUFFIX,binancefuture.com,Binance
-DOMAIN-SUFFIX,bnappzh.com,Binance
-DOMAIN-SUFFIX,bnbstatic.com,Binance
-DOMAIN-SUFFIX,binance.im,Binance
-DOMAIN-SUFFIX,binance.me,Binance
 DOMAIN-SUFFIX,binance.charity,Binance
+DOMAIN-SUFFIX,binance.click,Binance
+DOMAIN-SUFFIX,binance.cloud,Binance
 DOMAIN-SUFFIX,binance.co,Binance
+DOMAIN-SUFFIX,binance.com,Binance
+DOMAIN-SUFFIX,binance.im,Binance
+DOMAIN-SUFFIX,binance.info,Binance
+DOMAIN-SUFFIX,binance.me,Binance
 DOMAIN-SUFFIX,binance.net,Binance
 DOMAIN-SUFFIX,binance.org,Binance
 DOMAIN-SUFFIX,binance.us,Binance
 DOMAIN-SUFFIX,binance.vision,Binance
 DOMAIN-SUFFIX,binanceapi.com,Binance
 DOMAIN-SUFFIX,binancecnt.com,Binance
+DOMAIN-SUFFIX,binancefuture.com,Binance
 DOMAIN-SUFFIX,binancezh.be,Binance
 DOMAIN-SUFFIX,binancezh.biz,Binance
 DOMAIN-SUFFIX,binancezh.cc,Binance
@@ -32,20 +31,26 @@ DOMAIN-SUFFIX,binancezh.net,Binance
 DOMAIN-SUFFIX,binancezh.pro,Binance
 DOMAIN-SUFFIX,binancezh.sh,Binance
 DOMAIN-SUFFIX,binancezh.top,Binance
-DOMAIN-SUFFIX,fstream.binance.com,Binance
-DOMAIN-SUFFIX,binance.click,Binance
-
+DOMAIN-SUFFIX,bnappzh.co,Binance
+DOMAIN-SUFFIX,bnappzh.com,Binance
+DOMAIN-SUFFIX,bnappzh.mobi,Binance
+DOMAIN-SUFFIX,bnbstatic.com,Binance
+DOMAIN-SUFFIX,bnbzh.ac,Binance
+DOMAIN-SUFFIX,bntrace.com,Binance
+DOMAIN-SUFFIX,saasexch.cc,Binance
+DOMAIN-SUFFIX,saasexch.co,Binance
+DOMAIN-SUFFIX,saasexch.com,Binance
+DOMAIN-SUFFIX,saasexch.info,Binance
 
 # Wallet
 DOMAIN-SUFFIX,mokexapp.io,Binance
 DOMAIN-SUFFIX,mokexapp.tv,Binance
 
 # Chain
-DOMAIN-SUFFIX,binance.org,Binance
+DOMAIN-SUFFIX,bnbchain.org,Binance
 
-# Meme
-DOMAIN-SUFFIX,api.binance.com,Binance
-DOMAIN-SUFFIX,web3.binance.com,Binance
-DOMAIN-SUFFIX,nbstream.binance.com,Binance
-DOMAIN-SUFFIX,web3-stream.binance.com,Binance
-DOMAIN-SUFFIX,accounts.binance.com,Binance
+# IP 
+IP-CIDR,39.96.16.38/32,Binance,no-resolve
+IP-CIDR,8.133.231.173/32,Binance,no-resolve
+IP-CIDR,47.106.171.207/32,Binance,no-resolve
+IP-CIDR,120.24.233.110/32,Binance,no-resolve
