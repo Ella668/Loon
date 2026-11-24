@@ -51,7 +51,7 @@ DOMAIN-SUFFIX,mokexapp.tv,Binance
 DOMAIN-SUFFIX,bnbchain.org,Binance
 
 # IP 
-IP-CIDR,39.96.16.38/32,Binance,no-resolve
-IP-CIDR,8.133.231.173/32,Binance,no-resolve
-IP-CIDR,47.106.171.207/32,Binance,no-resolve
-IP-CIDR,120.24.233.110/32,Binance,no-resolve
+# IP-CIDR,39.96.16.38/32,Binance,no-resolve
+# IP-CIDR,8.133.231.173/32,Binance,no-resolve
+# IP-CIDR,47.106.171.207/32,Binance,no-resolve
+# IP-CIDR,120.24.233.110/32,Binance,no-resolve
